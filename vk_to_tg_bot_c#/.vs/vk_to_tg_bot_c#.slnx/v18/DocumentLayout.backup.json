@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceManger.cs",
+              "DocumentMoniker": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\ResourceManger.cs",
+              "RelativeDocumentMoniker": "vk_to_tg_bot_c#\\ResourceManger.cs",
+              "ToolTip": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\ResourceManger.cs*",
+              "RelativeToolTip": "vk_to_tg_bot_c#\\ResourceManger.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T04:34:11.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\Program.cs",
+              "RelativeDocumentMoniker": "vk_to_tg_bot_c#\\Program.cs",
+              "ToolTip": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\Program.cs",
+              "RelativeToolTip": "vk_to_tg_bot_c#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T04:30:55.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
