@@ -1,28 +1,46 @@
-﻿using VkNetLongpoll;
+﻿using Telegram.Bot;
 using VkNet;
 using VkNet.Model;
+using VkNetLongpoll;
 
 namespace Program
 
 {
     static internal class Core
     {
+        static private Longpoll? longpoll { get; set; }
+        static private VkApi? api { get; set; }
+        static private TelegramBotClient? bot { get; set; }
+        static private CancellationTokenSource? cts { get; set; }
 
-        static async private void InitializeVkApi()
+        static private void InitializeResources()
         {
-            var api = new VkApi();
+            ResourceManager.Initialize();
+        }
 
-            // Авторизация только через токен сообщества
-            await api.AuthorizeAsync(new ApiAuthParams
+        static private void InitializeTgBot()
+        {
+            cts = new CancellationTokenSource();
+            bot = new TelegramBotClient(ResourceManager.TG_BOT_TOKEN, cancellationToken: cts.Token);
+        }
+
+        static private void InitializeVkApi()
+        {
+            api = new VkApi();
+
+            api.Authorize(new ApiAuthParams
             {
                 AccessToken = ResourceManager.VK_TOKEN
             });
 
-            var longpoll = new Longpoll(api, );
+            longpoll = new Longpoll(api, groupId:2000000205);
+        }
 
-
-
-
+        static public async Task MainInitialize()
+        {
+            InitializeResources();
+            InitializeVkApi();
+            InitializeTgBot();
         }
     }
 }

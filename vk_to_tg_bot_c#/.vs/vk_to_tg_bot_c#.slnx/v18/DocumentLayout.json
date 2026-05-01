@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\resourcemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F9FA10-BD5D-4AC7-A1DF-3752DEBCD5A5}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|e:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45806133-1CBC-7774-174C-6F7FABAE7BF0}|vk_to_tg_bot_c#\\vk_to_tg_bot_c#.csproj|solutionrelative:vk_to_tg_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "vk_to_tg_bot_c#\\ResourceManger.cs",
               "ToolTip": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\ResourceManger.cs",
               "RelativeToolTip": "vk_to_tg_bot_c#\\ResourceManger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T04:34:11.361Z",
               "IsPinned": true,
@@ -53,6 +53,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Core.cs",
@@ -60,14 +64,10 @@
               "RelativeDocumentMoniker": "vk_to_tg_bot_c#\\Core.cs",
               "ToolTip": "E:\\vk_to_tg_bot_c-\\vk_to_tg_bot_c#\\vk_to_tg_bot_c#\\Core.cs",
               "RelativeToolTip": "vk_to_tg_bot_c#\\Core.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T05:18:25.538Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

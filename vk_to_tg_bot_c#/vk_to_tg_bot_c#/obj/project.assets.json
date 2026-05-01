@@ -223,6 +223,18 @@
           }
         }
       },
+      "VkNet.Extensions.Polling/0.1.3": {
+        "type": "package",
+        "dependencies": {
+          "VkNet": "1.65.0"
+        },
+        "compile": {
+          "lib/net5.0/VkNet.Extensions.Polling.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/VkNet.Extensions.Polling.dll": {}
+        }
+      },
       "VkNetLongpoll/1.0.4": {
         "type": "package",
         "dependencies": {
@@ -686,6 +698,19 @@
         "vknet.nuspec"
       ]
     },
+    "VkNet.Extensions.Polling/0.1.3": {
+      "sha512": "pdD0oai1NRdwjkss/0bGGzYvpKeFCEWzLJSp6/+NJj6IlYc6ooDZMzsa8ICaZiQp/2SHiDlJTIMf2oyPlBMd4g==",
+      "type": "package",
+      "path": "vknet.extensions.polling/0.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/VkNet.Extensions.Polling.dll",
+        "lib/netstandard2.0/VkNet.Extensions.Polling.dll",
+        "vknet.extensions.polling.0.1.3.nupkg.sha512",
+        "vknet.extensions.polling.nuspec"
+      ]
+    },
     "VkNetLongpoll/1.0.4": {
       "sha512": "VKbYBL0JfFfXEedrhw4M93sj9uxD8ra+sJFVeDBz2PtqArr1xpchko3SfbwdU6UUvyqfoGyvhM2seErTOypmQQ==",
       "type": "package",
@@ -703,6 +728,7 @@
     "net10.0": [
       "Telegram.Bot >= 22.9.6.2",
       "VkNet >= 1.78.0",
+      "VkNet.Extensions.Polling >= 0.1.3",
       "VkNetLongpoll >= 1.0.4",
       "dotenv.net >= 4.0.2"
     ]
@@ -761,6 +787,10 @@
           "VkNet": {
             "target": "Package",
             "version": "[1.78.0, )"
+          },
+          "VkNet.Extensions.Polling": {
+            "target": "Package",
+            "version": "[0.1.3, )"
           },
           "VkNetLongpoll": {
             "target": "Package",

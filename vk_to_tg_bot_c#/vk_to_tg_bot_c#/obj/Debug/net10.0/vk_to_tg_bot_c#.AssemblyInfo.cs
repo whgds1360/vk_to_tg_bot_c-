@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vk_to_tg_bot_c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df22b577d48350d4380c082f89d49cc5b7a7fb85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45bb78f976ceb9a517b29bd4f5334a1c44c513d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("vk_to_tg_bot_c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vk_to_tg_bot_c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
